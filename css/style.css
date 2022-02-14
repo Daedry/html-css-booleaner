@@ -4,6 +4,8 @@
    box-sizing: border-box;
 }
 
+/* Parte Alta */
+
 .parte_alta{
     background-image: url(../img/pattern.png);
     background-color: rgb(70, 141, 248);
@@ -28,3 +30,39 @@
     bottom: 0;
 }
 
+ /* Header */
+
+header>h1{
+   font-size: 57px;
+}
+
+header{
+margin: 15px 15px; 
+}
+
+.autore{
+display: inline-block;
+}
+
+.grigio{
+    color:grey;
+}
+
+.celeste{
+    color: aqua;
+}
+
+.data{
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+header > h4{
+    font-size: 12px;
+}
+/* Main */
+
+
+/* footer */
+ 
+ 
