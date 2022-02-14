@@ -94,5 +94,48 @@ th{
 }
 
 /* footer */
+
+footer{
+    color: grey;
+    font-size: 20px;
+    margin: left 30px;
+    position: relative;
+    margin-left: 20px;
+}
+
+footer>img{
+    display: block;
+    padding: 17px;
+}
+
+footer>h5{
+    color: white;
+}
+
+.text{
+    position: absolute;
+    left: 40px;
+    top: 55px;
+}
+.text2{
+    position: absolute;
+    left: 40px;
+    bottom: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
