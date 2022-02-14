@@ -60,8 +60,38 @@ display: inline-block;
 header > h4{
     font-size: 12px;
 }
+
 /* Main */
 
+.testo1{
+    margin-left: 20px;
+}
+
+.evidenziato{
+    background-color: #FFFF00;
+}
+
+div>ul{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+th{
+    color: white;
+    background-color: rgb(48, 94, 161);
+}
+
+.sfondo-colorato{
+    background-color: aqua;
+}
+
+.tabella{
+    margin: 30px 30px;
+}
+
+.testo2{
+    margin: 20px 20px;
+}
 
 /* footer */
  
